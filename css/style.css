@@ -1,229 +1,106 @@
-/* Stylesheet by Ryan Laird, 2020 */
+/***** NAVBAR *****/
+.navbar-default {
+  background-color: #077373;
+  border-radius: 0;
+  background-image: none;
+}
 
-html, body, #container {
-  height: 100%;
-  overflow: hidden;
-  width: 100%;
-  }
+/* Navbar title */
+.navbar-default .navbar-brand {
+  color: white;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+/* Navbar hover effects */
+.navbar-default .navbar-brand:hover,
+.navbar-default .navbar-brand:focus,
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
+    color: #808080;
+}
+
+/* Navbar links */
+.navbar-default .navbar-nav > li > a {
+  color: #fff;
+  font-size: 16px;
+}
+
+/* Navbar collapsed styles */
+.navbar-header .navbar-toggle {
+  color: #fff;
+}
+
+.navbar-header .navbar-toggle:hover,
+.navbar-header .navbar-toggle:focus {
+  background-color: #808080;
+  color: #242424;
+}
+
+.jumbotron {
+  background-image: url("../assets/nik-shuliahin-rkFIIE9PxH0-unsplash.jpg");
+  text-align: center;
+  color: #ffff;
+}
+
+.jumbotron h2 {
+  font-size: 36px;
+  font-weight: bold;
+}
+
+firstrow {
+    padding-top: 10px;
+    
+}
 
 body {
-  /*height of .navbar, customize with @navbar-height */
-  padding-top: 0px;
+  padding-top: 50px;
+  font-family: 'Georgia', serif;
+  background-color: #444141;
+  color: #242424;
 }
-.menu-ui {
-  background:#fff;
-  position: fixed;
-  top:10px;right:10px;
-  z-index:6;
-  border-radius:3px;
-  width:120px;
-  border:1px solid rgba(0,0,0,0.4);
-  }
-.menu-ui a {
-    font-size:13px;
-    color:#404040;
-    display:block;
-    margin:0;padding:0;
-    padding:10px;
-    text-decoration:none;
-    border-bottom:1px solid rgba(0,0,0,0.25);
-    text-align:center;
-    }
-.menu-ui a:first-child {
-      border-radius:3px 3px 0 0;
-      }
-.menu-ui a:last-child {
-      border:none;
-      border-radius:0 0 3px 3px;
-      }
-.menu-ui a:hover {
-      background:#f8f8f8;
-      color:#404040;
-      }
-.menu-ui a.active,
-.menu-ui a.active:hover {
-      background:#225B99;
-      color:#FFF;
-      }
 
-#yearButton {
-  outline: none;
+h1 {
+    color:antiquewhite;
 }
-#sidebar {
-  float: left;
+
+#aboutme {
+    color:antiquewhite
+    
+}
+
+#resumetext {
+    color:darkgray
+}
+
+h3 {
+    color:aqua
+}
+
+h4 {
+    color:antiquewhite
+}
+
+
+.row.display-flex {
+  display: flex;
+  flex-wrap: wrap;
+}
+.thumbnail {
   height: 100%;
-  max-width: 100%;
-  width: 275px;
 }
 
-
-#map {
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
-  height: 100%;
-  width: auto;
-  z-index: 5;
+.thumbnail p, .thumbnail h4 {
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
 }
-
-.sidebar-wrapper {
-  height: 100%;
-  position: relative;
-  width: 100%;
-}
-
-#features p {
-  margin-top: 10px;
-  text-align: center;
-}
-#features h3 {
-  text-align: center;
-}
-
-.dropdown {
-  outline: none;
-  position: absolute;
-  top: 26%;
-  left: 48%;
-  transform: translate(-50%, -50%);
-}
-
-input[type= "button"]:focus {
-  outline: none;
-}
-
-#years {
-  outline: none;
-}
-#dropdown button {
-  outline: none;
-  position: relative;
-  width: 150px;
-  height: 30px;
-  font-size: 16px;
-  background: #225B99;
-  box-shadow: none;
-  cursor: pointer;
-  color: #fff;
-}
-
-@-moz-document url-prefix() {
-  .dropdown {
-    top: 23%
-  }
-}
-
-#dropdown ul {
-  outline: none;
-  position: absolute;
-  margin: 0;
-  padding-left: 20px;
-  width: 100%;
-  background: #ccc;
-  transform-origin: top;
-  transform: perspective(1000px) rotateX(-90deg);
-  transition: 0.5s;
-}
-#dropdown ul.active {
-  transform: perspective(1000px) rotateX(0deg);
-  outline: none;
-}
-
-#dropdown ul li {
-  list-style: none;
-  outline: none;
-}
-#dropdown ul li a {
-  display: block;
-  padding: 10px;
-  text-align: center;
-  text-decoration: none;
-  background: #262626;
-  color: #fff;
-  border-bottom: 1px solid rgba(0,0,0,.2);
-  transition: 0.5s;
-  outline: none;
-}
-#dropdown ul li a:hover {
-  background: #225B99;
-  color: #fff;
-  outline: none;
-}
-.legend, .temporal-legend {
-  padding: 6px 10px;
-  font: 10px/12px Arial, Helvetica, sans-serif;
-  background: white;
-  background rgba(255,255,255,0.8);
-  box-shadow: 0 0 15px rgba(0,0,0,0.2);
-  border-radius: 5px;
-}
-
-.legend {
-  hidden: xs-down;
+.responsive {
   max-width: 100%;
   height: auto;
 }
-
-#legendTitle {
-        text-align: center;
-        margin-bottom: 15px;
-        font-variant: small-caps;
 }
-
-
-.symbolsContainer {
-        float: left;
-        margin-left: 60px;
-}
-
-.legendCircle {
-  border-radius: 50%;
-  border: 1.5px solid #997029;
-  background: rgba(230,192,125, .6);
-          display: inline-block;
-}
-
-.legendValue {
-        position: absolute;
-        right: 10px;
-        padding-right: 35px;
-        font-size: 12px;
-}
-
-
-.range-slider.leaflet-control {
-margin-bottom: 30px;
-}
-
-
-.data-group {
-  text-align: left;
-  padding-top: 20px;
-  padding-left: 10px;
-}
-
-#currentyear {
-  padding-right: 10px;
-  text-align: center;
-  font-weight: bolder;
-  font-size: 16px;
-}
-
-#sources {
-  font-size: 8px;
-}
-@media (max-width: 767px) {
-  .legend  {
-    display: none,
-  }
-  #sidebar {
-    display: none
-  }
-  .menu-ui {
-    display: none;
-  }
-}
-
-@media (min-width: 768px){
-  .temporal-legend {
-    display: none
-  }
+.fan {
+  max-width: 100%;
+  height: 250px;
 }
