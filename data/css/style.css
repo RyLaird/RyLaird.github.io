@@ -1,0 +1,106 @@
+/***** NAVBAR *****/
+.navbar-default {
+  background-color: #077373;
+  border-radius: 0;
+  background-image: none;
+}
+
+/* Navbar title */
+.navbar-default .navbar-brand {
+  color: white;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+/* Navbar hover effects */
+.navbar-default .navbar-brand:hover,
+.navbar-default .navbar-brand:focus,
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
+    color: #808080;
+}
+
+/* Navbar links */
+.navbar-default .navbar-nav > li > a {
+  color: #fff;
+  font-size: 16px;
+}
+
+/* Navbar collapsed styles */
+.navbar-header .navbar-toggle {
+  color: #fff;
+}
+
+.navbar-header .navbar-toggle:hover,
+.navbar-header .navbar-toggle:focus {
+  background-color: #808080;
+  color: #242424;
+}
+
+.jumbotron {
+  background-image: url("../assets/nik-shuliahin-rkFIIE9PxH0-unsplash.jpg");
+  text-align: center;
+  color: #ffff;
+}
+
+.jumbotron h2 {
+  font-size: 36px;
+  font-weight: bold;
+}
+
+firstrow {
+    padding-top: 10px;
+    
+}
+
+body {
+  padding-top: 50px;
+  font-family: 'Georgia', serif;
+  background-color: #444141;
+  color: #242424;
+}
+
+h1 {
+    color:antiquewhite;
+}
+
+#aboutme {
+    color:antiquewhite
+    
+}
+
+#resumetext {
+    color:darkgray
+}
+
+h3 {
+    color:aqua
+}
+
+h4 {
+    color:antiquewhite
+}
+
+
+.row.display-flex {
+  display: flex;
+  flex-wrap: wrap;
+}
+.thumbnail {
+  height: 100%;
+}
+
+.thumbnail p, .thumbnail h4 {
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+}
+.responsive {
+  max-width: 100%;
+  height: auto;
+}
+}
+.fan {
+  max-width: 100%;
+  height: 250px;
+}
