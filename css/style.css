@@ -60,12 +60,16 @@ body {
   color: #242424;
 }
 
+p {
+  font-size: 1.5em;
+}
+
 h1 {
     color:antiquewhite;
 }
 
 #aboutme {
-    color:antiquewhite
+    color:darkgray
 
 }
 
