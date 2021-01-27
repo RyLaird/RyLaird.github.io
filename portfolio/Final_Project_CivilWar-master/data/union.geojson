@@ -6,7 +6,7 @@
       "properties": {
         "battle": "The Battle of Shiloh",
         "description": "The Battle of Shiloh, also known as the Battle of Pittsburg Landing, took place from April 6 to April 7, 1862, and was one of the major early engagements of the American Civil War (1861-65). The battle began when the Confederate Army launched a surprise attack on Union forces under General Ulysses S. Grant (1822-85) in southwestern Tennessee. After initial successes, the Confederates were unable to hold their positions and were forced back, resulting in a Union victory. Both sides suffered heavy losses, with more than 23,000 total casualties, and the level of violence shocked North and South alike.",
-        "image" : "<img src='/images/shiloh.png' alt='shiloh' width='200px'/>",
+        "image" : "<img src='images/shiloh.png' alt='shiloh' width='200px'/>",
         "citation": "History.com Editors, \"Battle of Shiloh\", 09 November 2009, accessed 20 August 2020, https://www.history.com/topics/american-civil-war/battle-of-shiloh",
     		"historical": "Shiloh National Military Park, Tennessee and Mississippi: https://www.nps.gov/shil/index.htm",
         "date": "April 6-7, 1862",
@@ -33,7 +33,7 @@
       "properties": {
         "battle": "The Battle of Second Manassas (Second Bull Run)",
         "description":"The Second Battle of Bull Run (Manassas) proved to be the deciding battle in the Civil War campaign waged between Union and Confederate armies in northern Virginia in 1862. As a large Union force commanded by John Pope waited for George McClellan’s Army of the Potomac in anticipation of a combined offensive, Confederate General Robert E. Lee decided to strike first. Lee sent half of his Army of Northern Virginia to hit the Federal supply base at Manassas. Led by Stonewall Jackson, hero of the First Battle of Bull Run (Manassas) 13 months earlier, the rebels seized supplies and burned the depot, then established hidden positions in the woods. On August 29, Pope’s Federals clashed with Jackson’s men, who held their ground with heavy losses on both sides. The following day, after the rest of Lee’s army arrived, 28,000 rebels led by James Longstreet launched a counterattack, forcing Pope to withdraw his battered army toward Washington that night.",
-        "image" : "<img src='/images/stonewall.png' alt='stonewall' width='200px'/>",
+        "image" : "<img src='images/stonewall.png' alt='stonewall' width='200px'/>",
         "citation": "History.com Editors, \"Second Battle of Bull Run\", 05 April 2011, accessed 20 August 2020, https://www.history.com/topics/american-civil-war/second-battle-of-bull-run",
     		"historical": "Manassas National Battlefield Park, Virginia: https://www.nps.gov/mana/index.htm",
         "date": "August 29-30, 1862",
@@ -60,7 +60,7 @@
       "properties": {
         "battle": "The Battle of Stone's River (Murfreesboro)",
         "description":"In late December 1862, Union and Confederate forces clashed at the Battle of Stones River, near Murfreesboro, Tennessee, during the American Civil War (1861-65). On December 31, Confederate General Braxton Bragg’s 35,000 troops successfully attacked the 42,000-strong Union force commanded by Major General William Rosecrans. Union troops withstood the assault, but retreated to a defensive position, which they would hold against repeated attacks over the next two days. On January 2, 1863, another Confederate assault was repelled by overwhelming Union artillery fire, forcing Bragg to order a Southern retreat. With approximately 23,000 total casualties, Stones River was one of the deadliest battles of the war. Rosecrans claimed victory and the battle provided a much-needed boost to Union morale following their defeat at Fredericksburg, Virginia.",
-        "image" : "<img src='/images/murfreesboro.png' alt='murfreesboro' width='200px'/>",
+        "image" : "<img src='images/murfreesboro.png' alt='murfreesboro' width='200px'/>",
         "citation": "History.com Editors, \"Battle of Stone's River\", 09 November 2009, accessed 20 August 2020, https://www.history.com/topics/american-civil-war/battle-of-stones-river",
     		"historical": "Stones River National Battlefield, Tennessee: https://www.nps.gov/stri/index.htm",
         "date": "December 31, 1862 - January 3, 1863",
@@ -87,7 +87,7 @@
       "properties": {
         "battle": "The Battle of Fort Donelson",
         "description":"The Battle of Fort Donelson (February 11-16, 1862) was one of the Union’s first major victories in the American Civil War (1861-65). A week after capturing Fort Henry on the Tennessee River, Union Brigadier General Ulysses Grant began his assault on Fort Donelson on the Cumberland River, a key gateway to the Confederacy. On February 16, after Confederate forces under Brigadier General John Floyd failed to break through Grant’s lines, the Confederates relinquished the fort, meeting Grant’s terms of “unconditional and immediate surrender.” Grant’s victory ensured that Kentucky would remain in the Union and helped open up Tennessee to future Union advances.",
-        "image" : "<img src='/images/donelson.png' alt='donelson' width='200px'/>",
+        "image" : "<img src='images/donelson.png' alt='donelson' width='200px'/>",
         "citation": "History.com Editors, \"Battle of Fort Donelson\", 02 December 2009, accessed 20 August 2020, https://www.history.com/topics/american-civil-war/battle-of-fort-donelson",
     		"historical": "Fort Donelson National Battlefield, Kentucky and Tennessee: https://www.nps.gov/fodo/index.htm",
         "date": "February 13-16, 1862",
@@ -114,7 +114,7 @@
       "properties": {
         "battle": "The Battle of Gettysburg",
         "description":"The Battle of Gettysburg, fought from July 1 to July 3, 1863, is considered the most important engagement of the American Civil War. After a great victory over Union forces at Chancellorsville, General Robert E. Lee marched his Army of Northern Virginia into Pennsylvania in late June 1863. On July 1, the advancing Confederates clashed with the Union’s Army of the Potomac, commanded by General George G. Meade, at the crossroads town of Gettysburg. The next day saw even heavier fighting, as the Confederates attacked the Union on both left and right. On July 3, Lee ordered an attack by fewer than 15,000 troops on the enemy’s center at Cemetery Ridge. The assault, known as “Pickett’s Charge,” managed to pierce the Union lines but eventually failed at the cost of thousands of rebel casualties. Lee was forced to withdraw his battered army toward Virginia on July 4. The Union had won in a major turning point, stopping Lee’s invasion of the North. It inspired Lincoln’s “Gettysburg Address,” which became one of the most famous speeches of all time.",
-        "image" : "<img src='/images/gettysburg.png' alt='gettysburg' width='200px'/>",
+        "image" : "<img src='images/gettysburg.png' alt='gettysburg' width='200px'/>",
         "citation": "History.com Editors, \"Battle of Gettysburg\", 29 October 2009, accessed 20 August 2020, https://www.history.com/topics/american-civil-war/battle-of-gettysburg",
     		"historical": "Gettysburg National Military Park, Pennsylvania: https://www.nps.gov/gett/index.htm",
         "date": "July 1-3, 1863",
@@ -141,7 +141,7 @@
       "properties": {
         "battle": "Battle of Chancellorsville",
         "description":"The Battle of Chancellorsville (April 30-May 6, 1863) was a huge victory for the Confederacy and General Robert E. Lee during the Civil War, though it is also famous for being the battle in which Confederate General Thomas “Stonewall” Jackson was mortally wounded. Fought in Spotsylvania County, Virginia, Lee’s daring decision to face a force twice his size—Union General Joseph Hooker’s Army of the Potomac—by splitting his own army in two made the Battle of Chancellorsville go down in history as Lee’s most significant tactical victory.",
-        "image" : "<img src='/images/chancellorsville.png' alt='chancellorsville' width='161px'/>",
+        "image" : "<img src='images/chancellorsville.png' alt='chancellorsville' width='161px'/>",
         "citation": "History.com Editors, \"Battle of Chancellorsville\", 27 October 2009, accessed 20 August 2020, https://www.history.com/topics/american-civil-war/battle-of-chancellorsville",
     		"historical": "Fredericksburg and Spotsylvania National Military Park, Virginia: https://www.nps.gov/frsp/index.htm",
         "date": "May 1-4, 1863",
@@ -168,7 +168,7 @@
       "properties": {
         "battle": "The Battle of the Wilderness",
         "description":"The Battle of the Wilderness marked the first stage of a major Union offensive toward the Confederate capital of Richmond, ordered by the newly named Union General-in-Chief Ulysses S. Grant in the spring of 1864. As the Army of the Potomac crossed the Rapidan River on May 4, Confederate General Robert E. Lee determined that his Army of Northern Virginia would confront the enemy in the dense Virginia woods known as the Wilderness. Familiar terrain for the rebels, the heavy woods and dense undergrowth also negated the Union’s numerical advantage–115,000 to 65,000–by making it nearly impossible for a large army to make an orderly advance. Two days of bloody and often chaotic combat followed, ending in a tactical draw and heavy casualties, especially on the Union side. Grant refused to retreat, however, and instead ordered his battered troops to continued southward in what would be a long and costly–but ultimately successful–campaign.",
-        "image" : "<img src='/images/wilderness.png' alt='wilderness' width='200px'/>",
+        "image" : "<img src='images/wilderness.png' alt='wilderness' width='200px'/>",
         "citation": "History.com Editors, \"Battle of the Wilderness\", 06 November 2009, accessed 20 August 2020, https://www.history.com/topics/american-civil-war/battle-of-the-wilderness",
     		"historical": "Fredericksburg and Spotsylvania National Military Park, Virginia: https://www.nps.gov/frsp/index.htm",
         "date": "May 5-7, 1864",
@@ -195,7 +195,7 @@
       "properties": {
         "battle": "Battle of Spotsylvania",
         "description":"In May 1864, Confederate forces clashed with the advancing Union Army in the Battle of Spotsylvania Court House, which lasted for the better part of two weeks and included some of the bloodiest fighting of the Civil War. After an indecisive battle in the dense Virginia woods known as the Wilderness ended on May 7, Union General Ulysses S. Grant and the Army of the Potomac marched southward, meeting Robert E. Lee’s Army of Northern Virginia once again at the crossroads town of Spotsylvania Court House the next day. Over the 12 days that followed, Union troops briefly broke the Confederate line, but the rebels managed to close the gap and hold their ground. The battle, which cost 18,000 Union and 11,000 Confederate casualties, included nearly 20 hours of brutal hand-to-hand combat at the infamous “Bloody Angle,” a section of the Confederate salient, on May 12-13. On May 21, Grant disengaged his troops and ordered them to continue their march south toward the Confederate capital of Richmond.",
-        "image" : "<img src='/images/robertlee.png' alt='robertlee' width='160px'/>",
+        "image" : "<img src='images/robertlee.png' alt='robertlee' width='160px'/>",
         "citation": "History.com Editors, \"Battle of Spotsylvania Court House\", 17 March 2011, accessed 20 August 2020, https://www.history.com/topics/american-civil-war/battle-of-spotsylvania-court-house",
     		"historical": "Fredericksburg and Spotsylvania National Military Park, Virginia: https://www.nps.gov/frsp/index.htm",
         "date": "May 8-19, 1864",
@@ -222,7 +222,7 @@
       "properties": {
         "battle": "Battle of Antietam (Sharpsburg)",
         "description":"The Battle of Antietam, also called the Battle of Sharpsburg, occurred on September 17, 1862, at Antietam Creek near Sharpsburg, Maryland. It pitted Confederate General Robert E. Lee’s Army of Northern Virginia against Union General George McClellan’s Army of the Potomac and was the culmination of Lee’s attempt to invade the north. The battle’s outcome would be vital to shaping America’s future, and it remains the deadliest one-day battle in all of American military history.",
-        "image" : "<img src='/images/antietam.png' alt='antietam' width='200px'/>",
+        "image" : "<img src='images/antietam.png' alt='antietam' width='200px'/>",
         "citation": "History.com Editors, \"Battle of Antietam\", 29 October 2009, accessed 20 August 2020, https://www.history.com/topics/american-civil-war/battle-of-antietam",
     		"historical": "Antietam National Battlefield, Maryland: https://www.nps.gov/anti/index.htm",
         "date": "September 17, 1862",
@@ -249,7 +249,7 @@
       "properties": {
         "battle": "Battle of Chickamauga",
         "description":"On September 19-20, 1863, Braxton Bragg’s Army of Tennessee defeated a Union force commanded by General William Rosecrans in the Battle of Chickamauga, during the American Civil War. After Rosecrans’ troops pushed the Confederates out of Chattanooga early that month, Bragg called for reinforcements and launched a counterattack on the banks of nearby Chickamauga Creek. Over two days of battle, the rebels forced Rosecrans to give way, with heavy losses on both sides. Bragg failed to press his advantage after the victory, however, allowing the Union to safely reach Chattanooga. Ulysses S. Grant soon arrived with reinforcements, allowing the Union to reverse the results of Chickamauga and score a lasting victory in the region that November.",
-        "image" : "<img src='/images/chickamauga.png' alt='chickamauga' width='200px'/>",
+        "image" : "<img src='images/chickamauga.png' alt='chickamauga' width='200px'/>",
         "citation": "History.com Editors, \"Battle of Chickamauga\", 09 November 2009, accessed 20 August 2020, https://www.history.com/topics/american-civil-war/battle-of-chickamauga",
     		"historical": "Chickamauga and Chattanooga National Military Park: Georgia and Tennessee: https://www.nps.gov/chch/index.htm",
         "date": "September 19-20, 1863",
