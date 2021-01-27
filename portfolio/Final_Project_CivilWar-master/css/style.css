@@ -18,7 +18,7 @@ body {
 
 #banner {
 	height: 230px;
-	background-image: url("/images/jumbotron.png");
+	background-image: url("../images/jumbotron.png");
 }
 
 #banner h1 {
