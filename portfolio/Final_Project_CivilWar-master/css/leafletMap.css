@@ -1,0 +1,138 @@
+/* Stylesheet by Mark Wojta, 2020 */
+#mapCanvas {
+   height: 500px;
+   width: 90%;
+   display: inline-block;
+   text-align: center;
+   border:1px solid rgba(0,0,0,0.4);
+}
+
+.container-map {
+    text-align: center;
+    margin-top: 25px;
+}
+
+h3 {
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.legend-control-container {
+    width: 200px;
+    height: 120px;
+    background-color: #f4fcf4;
+    opacity: .9;
+    padding: 10px;
+    line-height: 0px;
+    text-align: center;
+    border: solid gray 1px;
+}
+
+.menu-ui {
+    background:#fff;
+    position:absolute;
+    top:10px;right:10px;
+    z-index:1;
+    border-radius:3px;
+    width:120px;
+    border:1px solid rgba(0,0,0,0.4);
+}
+
+.menu-ui a {
+    font-size:13px;
+    color:#404040;
+    display:block;
+    margin:0;
+    padding:0;
+    padding:10px;
+    text-decoration:none;
+    border-bottom:1px solid rgba(0,0,0,0.25);
+    text-align:center;
+}
+
+.menu-ui a:first-child {
+    border-radius:3px 3px 0 0;
+}
+
+.menu-ui a:last-child {
+    border:none;
+    border-radius:0 0 3px 3px;
+}
+
+.menu-ui a:hover {
+    background:#f4fcf4;
+    color:#404040;
+}
+
+.menu-ui a.active,
+.menu-ui a.active:hover {
+    background:#f4fcf4;
+    color:#FFF;
+}
+
+.container-fluid {
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+h1 {
+    font-size: 25px;
+    text-align: center;
+    font-family: Arial;
+}
+
+h2 {
+    font-size: 22px;
+    text-align: center;
+    font-family: serif;
+}
+
+p {
+    text-align: justify;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+footer {
+    text-align: center;
+    font-size: 12px;
+}
+
+ul {
+  text-align: left;
+  font-size: 10px;
+  list-style-position: inside;
+  display: inline-block;
+}
+
+
+
+
+.leaflet-popup
+.leaflet-popup-content p {
+    font-size: 13px;
+    font-family: serif;
+    margin-top: -2px;
+    margin-left: -20px;
+    margin-right: -20px;
+    margin-bottom: -2px;
+
+}
+
+.panel {
+    text-align: center;
+    margin-top: -15px;
+}
+
+.filter-map {
+    background-color: #f4fcf4;
+    border:1px solid rgba(0,0,0,0.4);
+}
+
+.col-xs-4 {
+    display: inline;
+}
+
+.imglink:hover {
+    opacity: .8;
+}

@@ -1,0 +1,24 @@
+{"children":[{"state":"Union","children":[
+  {"state":"New York","value":509636,"colname":"level3"},
+  {"state":"Pennsylvania","value":508102,"colname":"level3"},
+  {"state":"Ohio","value":464175,"colname":"level3"},
+  {"state":"Illinois","value":370437,"colname":"level3"},
+  {"state":"Indiana","value":277183,"colname":"level3"},
+  {"state":"Massachusetts","value":164403,"colname":"level3"},
+  {"state":"Michigan","value":142898,"colname":"level3"},
+  {"state":"Wisconsin","value":127520,"colname":"level3"}],
+  "colname":"level2"},{"state":"Confederate","children":[
+    {"state":"Virginia","value":282432,"colname":"level3"},
+    {"state":"Tennessee","value":249136,"colname":"level3"},
+    {"state":"Georgia","value":244142,"colname":"level3"},
+    {"state":"North Carolina","value":202009,"colname":"level3"},
+    {"state":"Alabama","value":199375,"colname":"level3"},
+    {"state":"Mississippi","value":174436,"colname":"level3"},
+    {"state":"Texas","value":162620,"colname":"level3"},
+    {"state":"Louisiana","value":141580,"colname":"level3"},
+    {"state":"South Carolina","value":133226,"colname":"level3"},
+    {"state":"Arkansas","value":120567,"colname":"level3"}],
+    "colname":"level2"},{"state":"Border","children":[
+      {"state":"Missouri","value":265571,"colname":"level3"},
+      {"state":"Kentucky","value":159484,"colname":"level3"}],
+      "colname":"level2"}],"state":"Civilwar"}
