@@ -62,9 +62,9 @@
     //use promise.all() asynchronous data loading
     //set empty promises and push files then promise.all()
     var promises = [];
-    promises.push(d3.csv("C:/working_directory/rylaird.github.io-update/RyLaird.github.io/portfolio/d3_coordinated_viz-master/data/italywine.csv"));
-    promises.push(d3.json("C:/working_directory/rylaird.github.io-update/RyLaird.github.io/portfolio/d3_coordinated_viz-master/data/italy.topojson"));
-    promises.push(d3.json("C:/working_directory/rylaird.github.io-update/RyLaird.github.io/portfolio/d3_coordinated_viz-master/data/regions.topojson"));
+    promises.push(d3.csv("data/italywine.csv"));
+    promises.push(d3.json("data/italy.topojson"));
+    promises.push(d3.json("data/regions.topojson"));
     Promise.all(promises).then(callback);
 
     //function to set up index values for files in callback , translate to json and add to map
