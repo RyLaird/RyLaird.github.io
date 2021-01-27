@@ -45,7 +45,7 @@ function createMap(){
         position: 'topright'
     }).addTo(map);
 
-    const easyButton = L.easyButton('<img src="../images/cabin.png"/>',
+    const easyButton = L.easyButton('<img src="images/cabin.png"/>',
     function(){map.setView([38, -87], 4)}).addTo(map);
 
     //fix to center home icon inside of button
@@ -493,7 +493,7 @@ function setTree() {
             "translate(" + margin.left + "," + margin.top + ")");
 
   //Read json
-  d3.json("../data/soldiers_bystate.json", function(data) {
+  d3.json("data/soldiers_bystate.json", function(data) {
 
     var root = d3.hierarchy(data).sum(function(d){ return d.value})
   //d3.treemap to position each element
